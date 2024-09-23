@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #FD9317;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+header img {
+  width: 5%;
+}
+header ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  width: 60vw;
+}
+
+figure img {
+  width: 20vw;
+  margin: 15px;
+}
+
+main {
+  background-color: #75442C;
+  display: flex;
+  flex-direction: column;
+  height: 120vh;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=style.css.map */
